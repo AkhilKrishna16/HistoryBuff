@@ -1,6 +1,6 @@
 # history_buff
 
-A new Flutter project.
+This is my first project with the Flutter framework in Dart. If you would like to use any code, feel free to borrow! Check the 'lib' folder for all Dart code that serves as the main point of the application! 
 
 ## Getting Started
 
